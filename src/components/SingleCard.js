@@ -1,19 +1,18 @@
 import "../components/SingleCard.css";
 
-function SingleCard({ card, handleChoise,flipped,disabled }) {
+function SingleCard({ card, handleChoise, flipped, disabled }) {
   const handleClick = () => {
-      if (!disabled) {
-        handleChoise(card)
-      }
-       
+    if (!disabled) {
+      handleChoise(card);
+    }
   };
   return (
     <div className="card">
-      <div className={flipped ? 'flipped': ''}>
+      <div className={flipped ? "flipped" : ""}>
         <img className="front" src={card.src} alt="card-front" />
         <img
           className="back"
-          src="/image/cover1.jpg"
+          src="/magic-match/image/cover1.jpg"
           alt="card-back"
           onClick={handleClick}
         />

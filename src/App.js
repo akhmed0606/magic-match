@@ -1,14 +1,14 @@
 import { useState, useEffect } from "react";
-import SingleCard from "../src/components/SingleCard";
+import SingleCard from "./components/SingleCard";
 import "./App.css";
 
 const cardImages = [
-  { src: "./magic-match/image/1.png", matched: false },
-  { src: "./magic-match/image/2.png", matched: false },
-  { src: "./magic-match/image/3.png", matched: false },
-  { src: "./magic-match/image/4.png", matched: false },
-  { src: "./magic-match/image/5.png", matched: false },
-  { src: "./magic-match/image/6.png", matched: false },
+  { src: "/magic-match/image/1.png", matched: false },
+  { src: "/magic-match/image/2.png", matched: false },
+  { src: "/magic-match/image/3.png", matched: false },
+  { src: "/magic-match/image/4.png", matched: false },
+  { src: "/magic-match/image/5.png", matched: false },
+  { src: "/magic-match/image/6.png", matched: false }
 ];
 
 function App() {
