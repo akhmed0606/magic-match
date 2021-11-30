@@ -3,12 +3,12 @@ import SingleCard from "../src/components/SingleCard";
 import "./App.css";
 
 const cardImages = [
-  { src: "/image/1.png", matched: false },
-  { src: "/image/2.png", matched: false },
-  { src: "/image/3.png", matched: false },
-  { src: "/image/4.png", matched: false },
-  { src: "/image/5.png", matched: false },
-  { src: "/image/6.png", matched: false },
+  { src: "./magic-match/image/1.png", matched: false },
+  { src: "./magic-match/image/2.png", matched: false },
+  { src: "./magic-match/image/3.png", matched: false },
+  { src: "./magic-match/image/4.png", matched: false },
+  { src: "./magic-match/image/5.png", matched: false },
+  { src: "./magic-match/image/6.png", matched: false },
 ];
 
 function App() {
