@@ -19,7 +19,6 @@ This project was developed using the following technologies:
  - `React`
  - `JavaScript`
  - `Css`
- - `HTML5`
  - `Images designed using Canva pro`
 
 ## 🚀 Quick start
