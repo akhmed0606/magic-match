@@ -4,6 +4,13 @@
  
 <br>
 
+
+
  - `React`
  - `JavaScript`
  - `Css`
+ - `Images designed using Canva pro`
+
+## 🚀 Quick start
+
+- ``npm i && npm start``
