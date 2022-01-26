@@ -1,6 +1,6 @@
 ## magic-match
 
-> Magic Match is a fun game where you have to match all Roman flipping tiles to win
+> Magic Match is a fun game where you have to match all Roman flipping tiles to win.
 
 > This game is about testing your short term memory skills.
  
